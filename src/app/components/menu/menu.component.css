@@ -1,0 +1,35 @@
+.background{
+  height: auto;
+}
+
+.title{
+  padding-bottom: 25px;
+}
+
+.panel{
+  min-width: 200px;
+  max-width: 500px;
+  width: auto;
+  margin: 20px 20px;
+
+  text-align: center;
+}
+
+.btn-auth{
+  margin-left: auto;
+  margin-right: auto;
+  min-width: none;
+
+}
+
+.container{
+  padding-top: 50px;
+}
+
+.message{
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace
+}
+
+
+

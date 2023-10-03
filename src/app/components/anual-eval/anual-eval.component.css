@@ -1,0 +1,20 @@
+.btn-auth{
+  padding: 5px 15px;
+  margin: 2px 2px;
+}
+
+.eval-name{
+  display: flex;
+}
+
+.eval-name label{
+  margin-right: 5px;
+}
+
+input[type='text']{
+  border: 1px solid black;
+  border-radius: 7px;
+  width: auto;
+  background-color: #CCE3DE;
+  height: fit-content;
+}

@@ -1,0 +1,27 @@
+<app-header></app-header>
+<div class="background">
+  <div class="container">
+    <div
+      (click)="activateInterval(true)"
+      class="panel"
+      [class.activate]="check1"
+    >
+      <h2>Avaliação Anual</h2>
+      <p>Avaliação de docente relativo a <strong>um ano</strong> de exerção.</p>
+    </div>
+    <div></div>
+    <div
+      (click)="activateInterval(false)"
+      class="panel"
+      [class.activate]="check2"
+    >
+      <h2>Avaliação Triénal</h2>
+      <p>
+        Avaliação de docente relativo a <strong>três anos</strong> de exerção.
+      </p>
+    </div>
+  </div>
+  <div>
+    <ng-container #container></ng-container>
+  </div>
+</div>

@@ -1,0 +1,43 @@
+
+.header-container{
+  height: 10vh;
+  padding: 0px 50px;
+  display: flex ;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #6B9080;
+
+}
+
+.header-title{
+  color: white;
+  font-size: 35px;
+  font-weight: bold;
+  width: auto;
+  margin:2px;
+  cursor: default;
+}
+.header-info{
+  display: flex;
+  align-items: center;
+}
+.user-name{
+  width: auto;
+  color: white;
+  padding: 3px 20px;
+  margin: 0px 20px;;
+  border-radius: 10px;
+  border: 1px solid white;
+  transition: background-color 0.5s, color 0.5s border 0.5s;
+  cursor: default;
+}
+
+.user-logout{
+  size: auto;
+  margin: 0px 20px;
+  cursor: pointer;
+}
+.user-logout:hover{
+  border-bottom: 2px solid black;
+
+}

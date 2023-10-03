@@ -1,5 +1,6 @@
-# DevRep
-Project Repository for public projects
+# CCA
+Project Repository for CCA
+The back-end and the front-end were developed separately so they are in diferent branches.
 
 This project was started in a dicipline in my last year in Infomatics System Engeneering in IPCA.
 

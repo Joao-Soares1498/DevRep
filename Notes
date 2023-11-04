@@ -1,4 +1,4 @@
-**Done**
+Done
 	login token - done
 
 	define save edited state and submit state (new eval)
@@ -11,7 +11,7 @@
 
 
 
-**To Do**
+To Do
 
 		Fill fields from database data (fix values on front end)
 
@@ -20,7 +20,7 @@
 
 
 
-**Future implementations**
+Future implementations
 
 	create a folder "validation files" inside "files->nameid->evname"
 		inside "validation files" create a folder" named after the field description

@@ -1,9 +1,9 @@
-Done
+**Done**
 	login token - done
 
-	definir estados de pre edição salvar e submeter (new eval)
-		guardar dados na base de dados ao salvar juntamente com o seu estado
-		criar botões para salvar e submeter
+	define save edited state and submit state (new eval)
+		save data on DB with the current state
+		create buttons to save and submit
 	
 	access already stored files  (my eval)
 		create button "view" for submited files
@@ -11,7 +11,7 @@ Done
 
 
 
-To Do
+**To Do**
 
 		Fill fields from database data (fix values on front end)
 
@@ -20,7 +20,7 @@ To Do
 
 
 
-Future implementations
+**Future implementations**
 
 	create a folder "validation files" inside "files->nameid->evname"
 		inside "validation files" create a folder" named after the field description

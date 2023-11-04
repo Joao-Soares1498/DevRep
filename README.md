@@ -1,14 +1,29 @@
-# CCA
-Project Repository for CCA
-The back-end and the front-end were developed separately so they are in diferent branches.
+# CCA - Evaluation Coordinating Council
 
-This project was started in a dicipline in my last year in Infomatics System Engeneering in IPCA.
+### This was one of the project I developed in the last semester of my bachelors.
 
-The objective is o create a Web App that allows certain users to create, manage and submit their teachers evaluation.
-The program is based in a login, where you access your private evaluations, the ones that are completed and the ones that are in development.
-Another feature is trought a form create an evaluation and insert it in a model excel and save the data in the personal folder on the server.
+**Some requirements were asked to be developed for the discipline evaluation and after evaluation, the teacher proposed me to continue to develop the project further. Some more features were added but in the end the project was dropped. So here is the code developed until that point.**
 
-The Back-end is developed in a MVC structure in C# and the front-end was developed with angular.
+The objective was to create a web aplication that follows some rules to simplify the teacher evaluation made by the council.
 
-This project was set to be implemented with more features after the end of the graduation to be used by teachers. Some features were added but in the meantime it was dropped.
+To access the functionalities was created an **authentication system** based on roles.
+
+After authentication users can navigate a page to insert all data and create a new evaluation. The data that was typed and confirmed is sent to the back-end inserted in a excel model file and a copy is saved in an user personal folder.
+
+If needed the user can create a pdf version of the finalized excel document.
+
+User on his main page can access all of the finilized docs and download if he desires to.
+
+### Technologies used:
+
+- Back-end
+  - C#
+  - SQL Server
+  - .NET
+ 
+- Front-End
+  - AngularJS
+  - Css
+  - Typescript
+  - Bootstrap
 

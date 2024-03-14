@@ -22,7 +22,7 @@ User on his main page can access all of the finilized docs and download if he de
   - .NET
  
 - Front-End
-  - AngularJS
+  - Angular
   - Css
   - Typescript
   - Bootstrap
